@@ -4,8 +4,8 @@ Uploaders: Alexander Wolf <alex.v.wolf@gmail.com>
 Section: science
 Priority: optional
 Build-Depends: cmake (>= 3.0),
-               debhelper (>= 12),
-               debhelper-compat (= 12),
+               debhelper (>= 9),
+               debhelper-compat (= 9),
                doxygen,
                libqt5opengl5-dev (>= 5.4),
                libqt5serialport5-dev (>= 5.4),
